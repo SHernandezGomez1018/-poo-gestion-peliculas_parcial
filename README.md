@@ -1,6 +1,7 @@
 CODIGO REALIZADO POR:
 
-SANTIAGO HERNANDEZ GOMEZ - ID 1012407
+SANTIAGO HERNANDEZ GOMEZ 
+ID 1012407
 
 ###### Descripción del Proyecto
 Este sistema de gestión de videotienda implementado en Python permite administrar un catálogo de películas con operaciones básicas como préstamos, devoluciones y cálculo de costos de reproducción. El proyecto demuestra los principios de Programación Orientada a Objetos, incluyendo encapsulamiento, métodos de acceso y sobrecarga de operadores.
